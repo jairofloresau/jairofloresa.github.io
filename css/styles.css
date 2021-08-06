@@ -1180,15 +1180,7 @@ nav#filter li {
   .publication img {
     width: 100%;
   }
-  .title{
-    float: left;
-    width: 60%;
-  }
-  .authors{
-    float: left;
-    width: 60%;
-  }
-  .venue{
+  .description{
     float: left;
     width: 60%;
   }
@@ -1201,14 +1193,7 @@ nav#filter li {
   .publication img {
     width: 100%;
   }
-  .title{
-    width: 100%;
-  }
-  .venue{
-  .authors{
-    width: 100%;
-  }
-  .venue{
+  .description{
     width: 100%;
   }
 }
