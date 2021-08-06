@@ -1162,3 +1162,23 @@ nav#filter li {
 	user-select: none;
 	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+
+/* publication */
+.publication {
+    width: 400px;
+    border: 4px solid red;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.publication img {
+    margin-right: 15px;
+    float: left;
+}
+
+.publication h3,
+.ipublication p{
+    margin-left: 15px;
+    display: block;
+    margin: 2px 0 0 0;
+}
