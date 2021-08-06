@@ -1171,6 +1171,8 @@ nav#filter li {
 }
 
 .publication img {
+    max-width: 20%;
+    height: auto !important;
     margin-right: 15px;
     float: left;
 }
