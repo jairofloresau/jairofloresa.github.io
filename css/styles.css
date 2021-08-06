@@ -1174,7 +1174,7 @@ nav#filter li {
 @media screen and (min-width: 550px) {
   .publication {
     float: left;
-    width: 40%;
+    width: 30%;
     padding-right: 15px;
   }
   .publication img {
