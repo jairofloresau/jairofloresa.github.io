@@ -1180,6 +1180,14 @@ nav#filter li {
   .publication img {
     width: 100%;
   }
+  .education{
+    float: left;
+    width: 10%;
+    padding-right: 15px;
+  }
+  .education img {
+    width: 100%;
+  }
   .description{
     float: left;
     width: 68%;
@@ -1193,7 +1201,26 @@ nav#filter li {
   .publication img {
     width: 100%;
   }
+  .education {
+    width: 100%;
+  }
+  .education img {
+    width: 100%;
+  }
   .description{
     width: 100%;
   }
 }
+/* Education */
+.institution h3 {
+	font-size: 32px;
+}
+
+.department h3 {
+	font-size: 32px;
+}
+
+.duration h3 {
+	font-size: 32px;
+}
+
