@@ -1264,9 +1264,9 @@ max-height: 100%;
   align: center;
 }
 .image-overlay a i{
-	font-size: 50px;
+	font-size: 64px;
 	color: #fff;
-  transform: translate(0%,100%)
+  transform: translate(0%,70%)
 }
 .teaser-box:hover .image-overlay{
 	opacity: 1;
