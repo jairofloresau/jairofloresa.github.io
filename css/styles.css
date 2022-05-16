@@ -1188,6 +1188,14 @@ nav#filter li {
   .education img {
     width: 100%;
   }
+  .experience{
+    float: left;
+    width: 10%;
+    padding-right: 15px;
+  }
+  .experience img {
+    width: 100%;
+  }
   .description{
     float: left;
     width: 68%;
@@ -1207,6 +1215,12 @@ nav#filter li {
   .education img {
     width: 100%;
   }
+  .experience{
+    width: 100%;
+  }
+  .experience img {
+    width: 100%;
+  }
   .description{
     width: 100%;
   }
@@ -1215,6 +1229,12 @@ nav#filter li {
 .institution h3 {
 	font-size: 32px;
 }
+
+/* Experience */
+.institution h3 {
+	font-size: 32px;
+}
+
 
 .department h3 {
 	font-size: 32px;
