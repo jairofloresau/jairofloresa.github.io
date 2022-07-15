@@ -577,9 +577,6 @@ min-height:200px;
 	font-size: 23px;
 }
 /*Experience*/
-#experience{
-	background: #F8F8F8;
-}
 .experience-details .col-md-6{
 	margin-bottom: 40px;
 } 
@@ -1022,14 +1019,13 @@ display: inline-block;
 }
 
 @media (max-width:760px) {
-.header .navbar-nav > li > a {
-	padding: 7px 12px;
-	font-size: 14px;
-}
-.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
-	border-color: #A8A8A8;
-}
-
+	.header .navbar-nav > li > a {
+		padding: 7px 12px;
+		font-size: 14px;
+	}
+	.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+		border-color: #A8A8A8;
+	}
 }
 
 @media (max-width: 480px) {
@@ -1291,4 +1287,11 @@ max-height: 100%;
 .teaser-box:hover .image-overlay{
 	opacity: 1;
 }
-
+.row-align {
+	display: flex;
+	align-items: center;
+	margin-bottom: 1rem;
+}
+.space-header {
+	margin-top: 0 !important;
+}
